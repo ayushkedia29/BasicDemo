@@ -1,3 +1,8 @@
 com\unbxd\controller\BasicApplication.class
-com\unbxd\model\Contact.class
 com\unbxd\BasicDemo.class
+dao\CrudCollections.class
+com\unbxd\dao\CrudCollectionsImpl.class
+com\unbxd\controller\BasicApplication$3.class
+com\unbxd\model\Student.class
+com\unbxd\controller\BasicApplication$1.class
+com\unbxd\controller\BasicApplication$2.class
